@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">GrabIt</string>
+    <string name="welcome_app_name">Welcome to GrabIt...</string>
+    <string name="welcome_text">Hey! looking for good restaurants dive-in to GrabIt to find a quick bite.
+    GrabIt provides you the best restaurants near-by and also you can search for your favorite hotels, Shopping center and more.</string>
+    <string name="welcome_btn_learn_more">Learn More</string>
+    <string name="welcome_btn_dive_in">Dive In</string>
+    <string name="welcome_editText_usernameHint">USERNAME</string>
+    <string name="welcome_editText_passwordHint">PASSWORD</string>
+    <string name="welcome_login_button">Login In</string>
+    <string name="coffeecup">Coffee Shop</string>
+    <string name="restaurant">Restaurants</string>
+    <string name="icecream">Ice Creams</string>
+    <string name="shopping">Shopping Malls</string>
+    <string name="burger">Burger Joints</string>
+    <string name="pizza">Pizza</string>
+
+    <!--//String for Recycler View display-->
+    <string name="name">Name</string>
+    <string name="price">Price:</string>
+    <string name="Address">address</string>
+    <string name="Rating">rating</string>
+    <string name="Phone">Phone:</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
