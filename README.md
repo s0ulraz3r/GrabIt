@@ -11,7 +11,7 @@
 > The entire application is built to perform in all the different versions of Android devices and supports all the different screen sizes.
 
 
-# Technology Stack
+### Technology Stack
 
 * **Language:** Java
 * **API:** Yelp, GoogleAutoPlaceComplete, Google Map, Retrofit 2, Glide
